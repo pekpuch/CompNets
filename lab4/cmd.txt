@@ -1,0 +1,1 @@
+http://127.0.0.1:5000/parse?url=https://www.mvideo.ru/noutbuki-planshety-komputery-8/noutbuki-118?from=under_search
